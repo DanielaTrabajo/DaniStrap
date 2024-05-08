@@ -172,7 +172,7 @@
 
 .background-header {
   background: rgb(255, 255, 255);
-  background: linear-gradient(90deg, rgba(255, 255, 255, 1) 15%, rgba(105, 27, 49, 1) 100%) !important;
+ background: linear-gradient(90deg, rgba(255,255,255,1) 15%, rgba(110,110,110,1) 100%) !important;
 }
 
 .navbar .container-fluid .row {
